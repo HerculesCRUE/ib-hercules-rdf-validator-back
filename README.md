@@ -9,7 +9,7 @@
 | Objetivo       | Servicio web en formato API para la validación de RDF |
 | Estado         | **100%** Todos los casos de usos de este sistema han sido implementados, así como la documentación asociada. |
 
-# Hércules RDF Validator Back
+# HErcules RDF Validator Back
 
 RDF playground. This repository contains the server part of the Hércules RDF Validator Back web app.
 The server has been implemented in Scala using the [http4s](https://http4s.org/) library. 
